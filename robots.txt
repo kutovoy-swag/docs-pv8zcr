@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-q7tz1f.adminlinkrtp.xyz/sitemap.xml
